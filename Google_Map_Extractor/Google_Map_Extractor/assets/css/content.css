@@ -1,0 +1,9 @@
+#simple-chrome-extension-toolbar{
+	z-index: 9999999999999999;
+	width: 100%;
+	top: 0;
+	left: 0;
+	position: fixed;
+	overflow: hide;
+	height: 40vh;
+}
